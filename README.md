@@ -38,15 +38,15 @@ graph LR
 <h1>🛠️ Tech Stack</h1><br>
 <h2>💻 Programming Languages</h2>
 <div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> </div>
-###🌐 Web & Frameworks
+<h2>🌐 Web & Frameworks</h2>
 <div align="center"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> </div>
-###🗄️ Database & Tools
+<h2>🗄️ Database & Tools</h2>
 <div align="center"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </div>
-###🎨 Design & AI/ML
+<h2>🎨 Design & AI/ML</h2>
 <div align="center"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> </div>
-###📊 Skill Progress
+<h2>📊 Skill Progress</h2>
 <div align="center">
-Skill	Level	Progress
+<h1>Skill	Level	Progress</h1>
 Java	⭐⭐⭐⭐⭐	https://progress-bar.dev/85
 PHP/Laravel	⭐⭐⭐⭐⭐	https://progress-bar.dev/85
 JavaScript/React	⭐⭐⭐⭐	https://progress-bar.dev/75
@@ -58,8 +58,8 @@ Go	⭐⭐	https://progress-bar.dev/30
 Flutter	⭐⭐	https://progress-bar.dev/35
 NLP/AI	⭐⭐⭐	https://progress-bar.dev/60
 </div>
-###🚀 Featured Projects
-###📊 Text Categorization AI
+<h1>🚀 Featured Projects</h1><br>
+<h2>📊 Text Categorization AI</h2>
 Tech: Python, NLTK, Scikit-learn, TensorFlow
 
 Features: NLP preprocessing, TF-IDF, classification models
@@ -68,7 +68,7 @@ Status: 🔄 In Development
 
 Goal: Build AI-powered text classification system
 
-###🌾 AgroConnect (Startup)
+<h2>🌾 AgroConnect (Startup)</h2>
 Tech: Laravel, React, MySQL
 
 Features: Equipment rental marketplace, real-time tracking
@@ -77,14 +77,14 @@ Status: 🚀 MVP Development
 
 Impact: Helping farmers access agricultural equipment
 
-###📁 Document Management System
+<h2>📁 Document Management System</h2>
 Tech: Java Swing, Oracle DB
 
 Features: File tracking, dossiers, secure authentication
 
 Status: ✅ Completed
 
-###💸 Invoice Generator
+<h2>💸 Invoice Generator</h2>
 Tech: Java, iText PDF
 
 Features: Automated PDF generation, multi-service invoicing
@@ -98,9 +98,9 @@ Focus: Urban streetwear, graphic design
 
 Status: 🎨 Active
 
-###📈 GitHub Analytics
+<h1>📈 GitHub Analytics</h1>
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvngr09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvngr09&layout=compact&langs_count=8&theme=tokyonight" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvngr09&theme=tokyonight" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rvngr09&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" /> </div>
-###🎯 Current Goals
+<h2>🎯 Current Goals</h2>
 <div align="center">
 Goal	Priority	Progress
 Complete Text Categorization AI	🔥 High	https://progress-bar.dev/60
@@ -109,8 +109,8 @@ Master Go Language	📚 Medium	https://progress-bar.dev/30
 Master Flutter	📚 Medium	https://progress-bar.dev/35
 Build LLM Application	🎯 High	https://progress-bar.dev/20
 </div>
-###🤝 Let's Collaborate!
-##I'm always open to collaborating on:
+<h2>🤝 Let's Collaborate!</h2>
+<h3>I'm always open to collaborating on:</h3>
 
 🧠 LLM & NLP projects
 
