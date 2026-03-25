@@ -47,7 +47,7 @@ graph LR
 <h2>📊 Skill Progress</h2>
 <div align="center">
 <h1>Skill	Level	Progress</h1>
-## 📊 Skill Progress
+
 
 | Skill | Level | Progress |
 |-------|-------|----------|
