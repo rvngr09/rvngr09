@@ -47,16 +47,16 @@ graph LR
 <h2>📊 Skill Progress</h2>
 <div align="center">
 <h1>Skill	Level	Progress</h1>
-Java	⭐⭐⭐⭐⭐	https://progress-bar.dev/85
-PHP/Laravel	⭐⭐⭐⭐⭐	https://progress-bar.dev/85
-JavaScript/React	⭐⭐⭐⭐	https://progress-bar.dev/75
-Python	⭐⭐⭐⭐	https://progress-bar.dev/70
-C	⭐⭐⭐⭐	https://progress-bar.dev/70
-UI/UX Design	⭐⭐⭐⭐	https://progress-bar.dev/75
-Node.js	⭐⭐⭐	https://progress-bar.dev/50
-Go	⭐⭐	https://progress-bar.dev/30
-Flutter	⭐⭐	https://progress-bar.dev/35
-NLP/AI	⭐⭐⭐	https://progress-bar.dev/60
+Java	⭐⭐⭐⭐⭐	![85%](https://img.shields.io/badge/Progress-85%25-brightgreen?style=flat-square)<br>
+PHP/Laravel	⭐⭐⭐⭐⭐	![85%](https://img.shields.io/badge/Progress-85%25-brightgreen?style=flat-square)<br>
+JavaScript/React	⭐⭐⭐⭐	![75%](https://img.shields.io/badge/Progress-75%25-brightgreen?style=flat-square)<br>
+Python	⭐⭐⭐⭐	![70%](https://img.shields.io/badge/Progress-70%25-brightgreen?style=flat-square)<br>
+C	⭐⭐⭐⭐	![70%](https://img.shields.io/badge/Progress-70%25-brightgreen?style=flat-square)<br>
+UI/UX Design	⭐⭐⭐⭐	![75%](https://img.shields.io/badge/Progress-75%25-brightgreen?style=flat-square)<br>
+Node.js	⭐⭐⭐	![50%](https://img.shields.io/badge/Progress-50%25-brightgreen?style=flat-square)<br>
+Go	⭐⭐	![2%](https://img.shields.io/badge/Progress-2%25-brightgreen?style=flat-square)<br>
+Flutter	⭐⭐	![35%](https://img.shields.io/badge/Progress-35%25-brightgreen?style=flat-square)<br>
+NLP/AI	⭐⭐⭐	![60%](https://img.shields.io/badge/Progress-60%25-brightgreen?style=flat-square)<br>
 </div>
 <h1>🚀 Featured Projects</h1><br>
 <h2>📊 Text Categorization AI</h2>
