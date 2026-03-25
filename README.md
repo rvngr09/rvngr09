@@ -47,6 +47,8 @@ graph LR
 <h2>📊 Skill Progress</h2>
 <div align="center">
 <h1>Skill	Level	Progress</h1>
+## 📊 Skill Progress
+
 | Skill | Level | Progress |
 |-------|-------|----------|
 | **Java** | ⭐⭐⭐⭐⭐ | ![85%](https://img.shields.io/badge/Progress-85%25-brightgreen?style=flat-square) |
