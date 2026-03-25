@@ -47,16 +47,20 @@ graph LR
 <h2>📊 Skill Progress</h2>
 <div align="center">
 <h1>Skill	Level	Progress</h1>
-Java	⭐⭐⭐⭐⭐	![85%](https://img.shields.io/badge/Progress-85%25-brightgreen?style=flat-square)<br>
-PHP/Laravel	⭐⭐⭐⭐⭐	![85%](https://img.shields.io/badge/Progress-85%25-brightgreen?style=flat-square)<br>
-JavaScript/React	⭐⭐⭐⭐	![75%](https://img.shields.io/badge/Progress-75%25-brightgreen?style=flat-square)<br>
-Python	⭐⭐⭐⭐	![70%](https://img.shields.io/badge/Progress-70%25-brightgreen?style=flat-square)<br>
-C	⭐⭐⭐⭐	![70%](https://img.shields.io/badge/Progress-70%25-brightgreen?style=flat-square)<br>
-UI/UX Design	⭐⭐⭐⭐	![75%](https://img.shields.io/badge/Progress-75%25-brightgreen?style=flat-square)<br>
-Node.js	⭐⭐⭐	![50%](https://img.shields.io/badge/Progress-50%25-brightgreen?style=flat-square)<br>
-Go	⭐⭐	![2%](https://img.shields.io/badge/Progress-2%25-brightgreen?style=flat-square)<br>
-Flutter	⭐⭐	![35%](https://img.shields.io/badge/Progress-35%25-brightgreen?style=flat-square)<br>
-NLP/AI	⭐⭐⭐	![60%](https://img.shields.io/badge/Progress-60%25-brightgreen?style=flat-square)<br>
+## 📊 Skill Progress
+
+| Skill | Level | Progress |
+|-------|-------|----------|
+| **Java** | ⭐⭐⭐⭐⭐ | ![85%](https://img.shields.io/badge/Progress-85%25-brightgreen?style=flat-square) |
+| **PHP/Laravel** | ⭐⭐⭐⭐⭐ | ![85%](https://img.shields.io/badge/Progress-85%25-brightgreen?style=flat-square) |
+| **JavaScript/React** | ⭐⭐⭐⭐ | ![75%](https://img.shields.io/badge/Progress-75%25-yellow?style=flat-square) |
+| **Python** | ⭐⭐⭐⭐ | ![70%](https://img.shields.io/badge/Progress-70%25-yellow?style=flat-square) |
+| **C** | ⭐⭐⭐⭐ | ![70%](https://img.shields.io/badge/Progress-70%25-yellow?style=flat-square) |
+| **UI/UX Design** | ⭐⭐⭐⭐ | ![75%](https://img.shields.io/badge/Progress-75%25-yellow?style=flat-square) |
+| **Node.js** | ⭐⭐⭐ | ![50%](https://img.shields.io/badge/Progress-50%25-orange?style=flat-square) |
+| **Go** | ⭐⭐ | ![30%](https://img.shields.io/badge/Progress-30%25-red?style=flat-square) |
+| **Flutter** | ⭐⭐ | ![35%](https://img.shields.io/badge/Progress-35%25-red?style=flat-square) |
+| **NLP/AI** | ⭐⭐⭐ | ![60%](https://img.shields.io/badge/Progress-60%25-yellowgreen?style=flat-square) |
 </div>
 <h1>🚀 Featured Projects</h1><br>
 <h2>📊 Text Categorization AI</h2>
