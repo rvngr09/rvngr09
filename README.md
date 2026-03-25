@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Text Categorization AI**
 
-- 🌱 I’m currently learning **Node.js , GoF**
+- 🌱 I’m currently learning **Node.js , Go,Flutter**
 
 - 👯 I’m looking to collaborate on **LLM & NLP projects**
 
